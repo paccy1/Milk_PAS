@@ -57,7 +57,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://milkpas2.onrender.com",
+        url: "https://milk6.onrender.com",
       },
       {
         url: "http://localhost:5680/",
