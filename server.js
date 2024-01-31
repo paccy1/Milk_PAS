@@ -57,7 +57,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://milk-production-analytical-system-icxp.onrender.com/",
+        url: "https://milkpas2.onrender.com",
       },
       {
         url: "http://localhost:5680/",
